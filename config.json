@@ -1,0 +1,6 @@
+{
+	"token": "INSERT TOKEN HERE",
+	"status": "STATUS",
+	"statusType": "WATCHING",
+	"prefix": "esp32$"
+}
